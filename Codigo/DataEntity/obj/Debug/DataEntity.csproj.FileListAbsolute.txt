@@ -1,0 +1,23 @@
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.csprojAssemblyReference.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Sebastián Mesén\Desktop\ProyectoJoyotaSA\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll.config
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Proyecto Final\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto Final\DataEntity\obj\Debug\DataEntity.csproj.CopyComplete
+C:\Users\User\Desktop\Proyecto Final\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\User\Desktop\Proyecto Final\DataEntity\obj\Debug\DataEntity.pdb

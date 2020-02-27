@@ -1,0 +1,1 @@
+Para realizar el respaldo de las tres bases de datos, se copian los archivos físicos de las bases de datos hacia otro lugar.
