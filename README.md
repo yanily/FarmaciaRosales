@@ -1,5 +1,5 @@
 # Farmacia Rosales - Proyecto final
-Proyecto de final del curso de Administración de Base de Datos y Lenguajes para Aplicaciones Comerciales.
+Proyecto final del curso de Administración de Base de Datos y Lenguajes para Aplicaciones Comerciales.
 
 ## Acerca del proyecto
 El proyecto consiste en la creación de un sistema de ventas en línea, en donde se combina las habilidades adquiridas en los cursos anteriormente mencionados. Para cada uno de los cursos se poseen dos objetivos que se combinan para la creación del sistema que se creó.
